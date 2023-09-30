@@ -32,12 +32,6 @@ body {
 }
 
 
-@media (max-width: 576px) {
-  body {
-    background-image: linear-gradient( 174.2deg,  rgba(255,244,228,1) 7.1%, rgba(240,246,238,1) 67.4% );
-  }
-}
-
 .ficon:hover {
   filter: invert(53%) sepia(68%) saturate(434%) hue-rotate(121deg)
     brightness(101%) contrast(94%);
